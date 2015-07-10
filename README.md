@@ -1,3 +1,3 @@
 # CS-Guide
 
-# guide to selection of CS courses
+guide to selection of CS courses
